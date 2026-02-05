@@ -11,7 +11,7 @@ from math import pi
 # 创建一个模块私有log
 _logger = logging.getLogger(__name__)
 #phongcbcnc
-
+#gsdbcnc
 class RobotEventType:
     RobotEvent_armCanbusError = 0  # 机械臂CAN总线错误
     RobotEvent_remoteHalt = 1  # 机械臂停止
